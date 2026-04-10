@@ -1,0 +1,62 @@
+[
+  {
+    "type": "PRODUCT",
+    "symbol": "TSLA",
+    "price": 346.72,
+    "currency": "USD",
+    "timestamp": "2026-04-10T18:04:15.624855"
+  },
+  {
+    "type": "ORDER",
+    "order_id": "ORD-20260410180415",
+    "buyer": "SimulatedBuyer",
+    "symbol": "TSLA",
+    "quantity": 10,
+    "price": 346.72,
+    "total": 3467.2,
+    "status": "APPROVED",
+    "timestamp": "2026-04-10T18:04:15.632344"
+  },
+  {
+    "type": "INVOICE",
+    "invoice_id": "INV-20260410180415",
+    "order_id": "ORD-20260410180415",
+    "buyer": "SimulatedBuyer",
+    "symbol": "TSLA",
+    "quantity": 10,
+    "total": 3467.2,
+    "currency": "USD",
+    "status": "PAID",
+    "timestamp": "2026-04-10T18:04:15.647214"
+  },
+  {
+    "type": "PRODUCT",
+    "symbol": "TSLA",
+    "price": 346.86,
+    "currency": "USD",
+    "timestamp": "2026-04-10T18:04:29.035891"
+  },
+  {
+    "type": "ORDER",
+    "order_id": "ORD-20260410180429",
+    "buyer": "Hamzah",
+    "symbol": "TSLA",
+    "quantity": 5,
+    "price": 346.86,
+    "total": 1734.3,
+    "status": "APPROVED",
+    "timestamp": "2026-04-10T18:04:29.047163"
+  },
+  {
+    "type": "INVOICE",
+    "invoice_id": "INV-20260410180429",
+    "order_id": "ORD-20260410180429",
+    "buyer": "Hamzah",
+    "symbol": "TSLA",
+    "quantity": 5,
+    "total": 1734.3,
+    "currency": "USD",
+    "status": "PAID",
+    "timestamp": "2026-04-10T18:04:29.065502"
+  }
+]
